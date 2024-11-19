@@ -10,4 +10,6 @@ Cinemachine : Afin de gérer les caméras dynamiques et les cinématiques facile
 
 Post Processing : Ajoute des effets visuels comme l'anti-aliasing, le flou, les couleurs HDR etc. Surtout orienté aspect visuel.
 
-ProBuilder : Outil pour modéliser rapidement des niveaux 3D directement dans Unity, pas besoin de code en C#
+ProBuilder : Outil pour modéliser rapidement des niveaux 3D directement dans Unity, pas besoin de coder
+
+Terrain Tools : Pour sculpter des terrains 3D. Inclut des outils avancés pour peindre, texturer et générer des terrains.
